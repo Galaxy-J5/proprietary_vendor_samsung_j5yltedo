@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/j5yltedo/proprietary/vendor/firmware/widevine.b02:system/vendor/firmware/widevine.b02 \
   vendor/samsung/j5yltedo/proprietary/vendor/firmware/widevine.b03:system/vendor/firmware/widevine.b03 \
   vendor/samsung/j5yltedo/proprietary/vendor/firmware/widevine.mdt:system/vendor/firmware/widevine.mdt \
+  vendor/samsung/j5yltedo/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
   vendor/samsung/j5yltedo/proprietary/lib/hw/nfc_nci.msm8916.so:system/lib/hw/nfc_nci.msm8916.so \
   vendor/samsung/j5yltedo/proprietary/lib/libnfc-nci.so:system/lib/libnfc-nci.so \
   vendor/samsung/j5yltedo/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
